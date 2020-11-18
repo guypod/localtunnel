@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "request": "2.65.0",
-    "yargs": "3.29.0",
+    "yargs": "16.0.0",
     "debug": "2.2.0",
     "openurl": "1.1.0"
   },
